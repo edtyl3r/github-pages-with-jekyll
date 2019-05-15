@@ -4,6 +4,8 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description here.
 
+baseurl: /github-pages-with-jekyll
+
 # social links
 twitter_username: awesome-twitter-handle
 github_username:  awesome-github-handle
